@@ -1,0 +1,9 @@
+// pages/index.tsx
+export default function Home() {
+  return (
+    <div>
+      <h1>Hallo Solutions</h1>
+      <p>Coming soon</p>
+    </div>
+  );
+}
