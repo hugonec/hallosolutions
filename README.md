@@ -1,17 +1,8 @@
-# Hallo Solutions – Consulting MVP
+# Hallo Solutions
 
-This is the codebase for Hallo Solutions, helping brands find the right 3PL in Europe.
+Basic deployable Next.js site for Hallo Solutions – 3PL matching platform.
 
-- Built with Next.js
-- Integrated with Tally forms
-- Deploy-ready for Netlify
-
-## Forms
-
-- Brand form: (Embed via Tally)
-- 3PL form: (Embed via Tally)
-
-## Deploy
+## Deploy Commands
 
 ```
 npm install
@@ -19,4 +10,4 @@ npm run build
 npm run start
 ```
 
-Or use Netlify to auto-deploy from this GitHub repo.
+Or deploy via Netlify using GitHub integration.
